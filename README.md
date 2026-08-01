@@ -3,7 +3,13 @@
 An AI-powered meeting workflow that converts transcripts into summaries, decisions, action items, Google Docs reports, Google Sheets task records, and Gmail follow-up drafts.
 
 Built by **Animty** using n8n and Google Gemini.
+## Project Poster
 
+![Animty AI Meeting Intelligence](animty-ai-meeting-intelligence-poster.png)
+
+## Complete Workflow
+
+![Complete n8n workflow](complete-workflow.png)
 ## Features
 
 - Accepts meeting titles, attendee emails, and transcripts through an n8n form
